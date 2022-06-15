@@ -1,5 +1,13 @@
 function task1(str) {
-  return str.length;
+  if(str.length < 1){
+    return 'the list is empty';
+  }
+  else if(str.length >10) {
+    return 'The string is too large';
+  }
+  else {
+    return str.length;
+  }
 }
 
-module.export = task1;
+module.exports = task1;
