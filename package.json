@@ -1,0 +1,20 @@
+{
+  "name": "tewting-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farida-Hamid/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farida-Hamid/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Farida-Hamid/Testing-practice#readme"
+}
